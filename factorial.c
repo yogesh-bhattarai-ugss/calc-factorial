@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
-/* WAP to calculate factorial and fibonacci series without function. */
+/* WAP to calculate factorial without function. */
 int fact(int);
 int main()
 {
